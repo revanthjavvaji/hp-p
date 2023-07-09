@@ -69,8 +69,9 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-"# Hello"
+"## Hello"
+"#Happy Birthday Pujitha!!! 🥳🎂🎊 Wishing you all the best on your special day. May your year ahead be filled with love, joy, and prosperity. Keep smiling 😊 and spread your positivity to everyone around you🌈. Cheers 🥂 to a fantastic year ahead!"
 
-"""This font will look different, based on your choice of radio button"""
+#"""This font will look different, based on your choice of radio button"""
 
 #st.text('Happy Birthday Pujitha!!! 🥳🎂🎊 Wishing you all the best on your special day.\nMay your year ahead be filled with love, joy, and prosperity.\nKeep smiling 😊 and spread your positivity to everyone around you🌈.\nCheers 🥂 to a fantastic year ahead!')
