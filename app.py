@@ -50,4 +50,4 @@ else:
     st.error("Failed to load animation")
     
 
-st.text('Happy Birthday Pujitha!!! 🥳🎂🎊 Wishing you all the best on your special day.\nMay your year ahead be filled with love, joy, and prosperity.\nKeep smiling 😊 and spreading your positivity to everyone around you🌈.\nCheers 🥂 to a fantastic year ahead!')
+st.text('Happy Birthday Pujitha!!! 🥳🎂🎊 Wishing you all the best on your special day.\nMay your year ahead be filled with love, joy, and prosperity.\nKeep smiling 😊 and spread your positivity to everyone around you🌈.\nCheers 🥂 to a fantastic year ahead!')
