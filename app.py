@@ -3,13 +3,21 @@ import os
 from streamlit_lottie import st_lottie
 import json 
 from PIL import Image
+
 st.balloons()
+time.sleep(1)
 st.balloons()
+time.sleep(1)
 st.balloons()
+time.sleep(1)
 st.snow()
+time.sleep(1.3)
 st.snow()
+time.sleep(1.3)
 st.snow()
+time.sleep(1.3)
 st.snow()
+time.sleep(1)
 st.snow()
 
 file_path = __file__
