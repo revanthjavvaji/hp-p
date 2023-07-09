@@ -3,6 +3,7 @@ import os
 from streamlit_lottie import st_lottie
 import json 
 from PIL import Image
+import time
 
 st.balloons()
 time.sleep(1)
