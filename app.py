@@ -16,7 +16,7 @@ file_path = __file__
 dir_name = os.path.dirname(file_path)
 lottie_url= os.path.join(dir_name, "happy_bday.json")
 
-image_path = os.path.join(dir_name, "m_collage.jpg")
+image_path = os.path.join(dir_name, "p_collage.jpg")
 image = Image.open(image_path)
 
 lottie_url_1 = os.path.join(dir_name, "bday_anim.json")
@@ -41,4 +41,4 @@ else:
     st.error("Failed to load animation")
     
 
-st.text('Happy Birthday Manmitha!!! 🥳🎂🎊 Wishing you all the best on your special day.\nMay your year ahead be filled with love, joy, and prosperity.\nKeep smiling 😊 and spreading your positivity to everyone around you🌈.\nCheers 🥂 to a fantastic year ahead!')
+st.text('Happy Birthday Pujitha!!! 🥳🎂🎊 Wishing you all the best on your special day.\nMay your year ahead be filled with love, joy, and prosperity.\nKeep smiling 😊 and spreading your positivity to everyone around you🌈.\nCheers 🥂 to a fantastic year ahead!')
