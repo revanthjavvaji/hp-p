@@ -49,28 +49,5 @@ if lottie_json is not None:
 else:
     st.error("Failed to load animation")
     
-st.markdown(
-    """
-    <style>
-    @font-face {
-      font-family: 'Tangerine';
-      font-style: normal;
-      font-weight: 400;
-      src: url(https://fonts.gstatic.com/s/tangerine/v12/IurY6Y5j_oScZZow4VOxCZZM.woff2) format('woff2');
-      unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-    }
 
-    html, body, [class*="css"]  {
-      font-family: 'Tangerine';
-      font-size: 24px;  /* Adjust the font size as needed */
-    }
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
-
-"## Happy Birthday Pujitha!!! 🥳🎂🎊 Wishing you all the best on your special day. May your year ahead be filled with love, joy, and prosperity. Keep smiling 😊 and spread your positivity to everyone around you🌈. Cheers 🥂 to a fantastic year ahead!"
-
-#"""This font will look different, based on your choice of radio button"""
-
-#st.text('Happy Birthday Pujitha!!! 🥳🎂🎊 Wishing you all the best on your special day.\nMay your year ahead be filled with love, joy, and prosperity.\nKeep smiling 😊 and spread your positivity to everyone around you🌈.\nCheers 🥂 to a fantastic year ahead!')
+st.text('Happy Birthday Pujitha!!! 🥳🎂🎊 Wishing you all the best on your special day.\nMay your year ahead be filled with love, joy, and prosperity.\nKeep smiling 😊 and spread your positivity to everyone around you🌈.\nCheers 🥂 to a fantastic year ahead!')
